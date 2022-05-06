@@ -4,4 +4,4 @@
 
 Посмотреть проект можно по ссылке:
 
-URL: likhachevaa.github.io
+URL: https://likhachevaa.github.io/test-for-business-sector/
